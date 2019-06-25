@@ -1,3 +1,4 @@
+[![Build Status](https://marianog87.visualstudio.com/MyFirstProject/_apis/build/status/Marianog87.mslearn-tailspin-spacegame-web?branchName=master)](https://marianog87.visualstudio.com/MyFirstProject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
